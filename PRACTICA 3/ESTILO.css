@@ -1,0 +1,41 @@
+body{
+    background: #ffea96;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 1000;
+}
+
+header{
+   background-color: #e2b436;
+   height: 60px;
+   width: 50;
+   text-align: center;
+   line-height: 60px;
+   color: rgb(75, 134, 121);
+}
+
+section{
+    height: 60px;
+   width: 60;
+   text-align: center;
+   line-height: 60px;
+   color: rgb(107, 82, 153);
+}
+
+center{
+    height: 10px;
+   width: 10;
+   text-align: center;
+   line-height: 30px;
+   height: 375px;
+   color: rgb(221, 0, 0);
+}
+footer{
+    background: rgb(167, 157, 66);
+    color:rgb(75, 46, 3)
+    text-align: center;
+    height: 85px;
+    line-height; 50px;
+}
